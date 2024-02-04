@@ -31,3 +31,11 @@ body {
     text-wrap: balance;
   }
 }
+
+.sectionHeight {
+  height: calc(100vh);
+  padding-top: 4rem;
+  padding-bottom: 4rem;
+}
+
+
