@@ -4,6 +4,7 @@ import { ParallaxProvider } from "react-scroll-parallax";
 import { FaLinkedin } from "react-icons/fa";
 import { FaGithub } from "react-icons/fa";
 
+
 interface SectionTemplateProps {
   children: React.ReactNode;
   className?: string;
