@@ -20,7 +20,7 @@ const LeafletMap: React.FC = () => {
             <button className="btn btn-wide glass">Add Shape</button>
         </div>
 
-      </div>;
+      </div>
     );
   };
   
