@@ -44,7 +44,8 @@ export default function Page() {
       ) : (
         <>
           <img className="h-[200px]" src="https://gifdb.com/images/high/cute-love-bear-roses-ou7zho5oosxnpo6k.gif" />
-          <div className="text-4xl my-4" style={{ display: 'inline-block' }}>Will you be my Valentine?</div>
+          <h1 className="py-2 text-xl sm:text-base md:text-xl">Will you be my Valentine?</h1>
+
 
 
           <div>
